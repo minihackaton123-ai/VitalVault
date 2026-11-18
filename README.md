@@ -26,7 +26,7 @@ Built for the **Resurrect 2026** idea round (VCET Puttur). Team: **DeepNova**.
 |------|------------|
 | `emergency_qr.py` | Proof of concept: signed, expiring Emergency QR link |
 | `prescription_ocr.py` | Proof of concept: reads text from a prescription photo |
-| `mockup_*.png` | Concept UI mockups (sample data, not a running app) |
+| `Mockup*.jpeg` | Concept UI mockups (sample data, not a running app) |
 | `requirements.txt` | Python libraries needed |
 
 ## How to run the scripts
